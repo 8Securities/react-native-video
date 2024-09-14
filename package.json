@@ -12,11 +12,11 @@
         "url": "git@github.com:react-native-video/react-native-video.git"
     },
     "devDependencies": {
-        "@react-native-community/eslint-config": "^0.0.5",
+        "@react-native-community/eslint-config": "^0.0.7",
         "eslint": "^6.5.1",
-        "react": "16.9.0",
-        "react-native": "0.61.5",
-        "react-native-windows": "^0.61.0-0"
+        "react": "16.14.0",
+        "react-native": "0.75.2",
+        "react-native-windows": "^0.75.0"
     },
     "dependencies": {
         "deprecated-react-native-prop-types": "^2.2.0",
